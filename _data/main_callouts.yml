@@ -1,0 +1,11 @@
+style: is-light
+items:
+  - title: Example callout 1
+    subtitle: Example subtitle 1
+    icon: fa-space-shuttle
+  - title: Example callout 2
+    subtitle: Example subtitle 2
+    icon: fa-wrench
+  - title: Example callout 3
+    subtitle: Example subtitle 3
+    icon: fab fa-github
