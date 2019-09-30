@@ -1,0 +1,15 @@
+style: is-light
+height: is-small
+items:
+  - title: LinkedIn
+    icon: fab fa-linkedin
+    call_to_action_name: Link up
+    call_to_action_link: http://www.linkedin.com/in/kevinclaytor
+  - title: GitHub
+    icon: fab fa-github
+    call_to_action_name: Fork something
+    call_to_action_link: https://github.com/KEClaytor
+  - title: Twitter
+    icon: fab fa-twitter
+    call_to_action_name: Tweet me
+    call_to_action_link: http://www.twitter.com/keclaytor

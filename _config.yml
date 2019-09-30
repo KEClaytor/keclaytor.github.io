@@ -13,19 +13,49 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kevin Claytor's Projects and Blog
+title: Kevin E Claytor
+tagline: KEClaytor
 email: ke.claytor@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a physicist and tinkerer.
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: keclaytor
 github_username:  keclaytor
+permalink: pretty
 
-# Build settings
+paginate: 5
+paginate_path: "/blog/page:num"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "K.E. Claytor"
+      layout: post
+      # image: https://via.placeholder.com/1200x800
+      show_sidebar: true
+
+# Build setings
 markdown: kramdown
 theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 

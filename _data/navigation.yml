@@ -1,0 +1,15 @@
+# - name: Research
+#   link: /research/
+# - name: Projects
+#   link: /projects/
+#   dropdown:
+#     - name: Electric Mandolin
+#       link: /2015/08/15/emando/
+- name: Blog
+  link: /blog/
+- name: Outreach
+  link: /outreach/
+- name: Contact
+  link: /contact/
+- name: CV
+  link: /cv/
