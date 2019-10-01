@@ -2,7 +2,7 @@
 title: Kevin E Claytor
 subtitle: Projects and Posts on Physics and Programming
 layout: page
-show_sidebar: true
+hero_image: /assets/images/hero.png
 ---
 
 # Nice to meet you!

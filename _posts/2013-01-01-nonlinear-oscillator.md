@@ -7,6 +7,8 @@ tags: physics, lego, project, tinkering
 
 # Lego Nonlinear Oscillator
 
+[Read the final report.](/assets/docs/Claytor_NonlinearOscillator.pdf)
+
 One of the coolest things that I like about physics is how accessible it can be with some fairly simple experiments.
 Here I've built a driven pendulum out of Legos.
 The drive arm is connected to the oscillator via a rubber band.
@@ -31,33 +33,32 @@ Here's a video of it running at a specific frequency.
   allowfullscreen>
 </iframe>
 
-Unfortunately, I seem to have misplaced the final report.
 In the meantime you can download the [analysis code](mfiles/nonlinear/VideoAnalysis.m).
 And a pair of Mathematica analysis files ([analysis](mfiles/nonlinear/Analysis.nb) and
 [Simulations](mfiles/nonlinear/ProjectSimulations.nb)).
 
 Here are some processing images so you can see how it is done (thrsholding and following the green dot).
 
-![Isolating the region of interest](/images/nonlinear/processing1.jpg)
+![Isolating the region of interest](/assets/images/nonlinear/processing1.jpg)
 
 We isolate the region of interest (ROI).
 
-![Using just the green channel](/images/nonlinear/processing2.jpg)
+![Using just the green channel](/assets/images/nonlinear/processing2.jpg)
 
 Just the green channel of the ROI (I later learned that [RGB -0.5*R -0.5*B] is a better way of obtaining green color information).
 
-![Adjusting the dynamic range](/images/nonlinear/processing3.jpg)
+![Adjusting the dynamic range](/assets/images/nonlinear/processing3.jpg)
 
 Adjusting for full dynamic range.
 
-![Thresholding isolates the marker](/images/nonlinear/processing4.jpg)
+![Thresholding isolates the marker](/assets/images/nonlinear/processing4.jpg)
 
 A threshold allows us to isolate the marker.
 
-![Identified the location of the marker](/images/nonlinear/processing5.jpg)
+![Identified the location of the marker](/assets/images/nonlinear/processing5.jpg)
 
 Finally we have the location of the markers in all the frames.
 
-![Damped data](/images/nonlinear/dampeddata.jpg)
+![Damped data](/assets/images/nonlinear/dampeddata.jpg)
 
 Here's an example of the quality of the data you can extract from this simple setup.

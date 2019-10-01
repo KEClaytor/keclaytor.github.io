@@ -7,7 +7,7 @@ tags: educational
 
 # Tangicode
 
-![Tangicode logo](/images/tangicode/tangicode_logo.jpg)
+![Tangicode logo](/assets/images/tangicode/tangicode_logo.jpg)
 
 The idea behind Tangicode is to bring logic / programming / coding to a tangible level so younger kids can interact with it.
 To carry this out in a weekend we decided that the easiest option would be to do image processing.
