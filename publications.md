@@ -2,6 +2,7 @@
 title: Publications
 layout: page
 hero_height: is-small
+show_sidebar: false
 ---
 
 # Publications
@@ -46,7 +47,7 @@ hero_height: is-small
 
 ## 2007
 
-- **K. Claytor**, S. Kathyra, S. Link. Tracking Nanocars using Optical Methods. (Poster) Rice Quantum Institute (RQI) Student Symposium 2007. [PDF](/assets/docs/Claytor_RQI.pdf")
+- **K. Claytor**, S. Kathyra, S. Link. Tracking Nanocars using Optical Methods. (Poster) Rice Quantum Institute (RQI) Student Symposium 2007. [PDF](/assets/docs/Claytor_RQI.pdf)
 
 ## 2006
 

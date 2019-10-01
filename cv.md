@@ -2,6 +2,7 @@
 title: Curriculum Vitae
 layout: page
 hero_height: is-small
+show_sidebar: false
 ---
 
 # Download

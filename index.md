@@ -23,7 +23,7 @@ I enjoy to tinker on my own as well.
 Most of these projects mix a hardware and software component, to make something that is interactive.
 Some of my current favorites are;
 - [My electric mandolin](/2015/08/15/emando/)
-- [The toblerone clock]()
+- [The Toblerone clock](2013/05/22/toblerone/)
 
 # Programming Projects
 
