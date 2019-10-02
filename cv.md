@@ -5,8 +5,6 @@ hero_height: is-small
 show_sidebar: false
 ---
 
-# Download
-
 # Publications
 
 Please visit [the publications page](/publications/).
@@ -18,12 +16,13 @@ Please visit [the publications page](/publications/).
 **Physicist, US Army Research Laboratory**
 
 Low Frequency Electric and Magnetic Field Sensing Team.
-Expertise in:
 - E/H-Field Sensing
 - Machine learning / artificial intelligence
 - Signal processing
 - Embedded Linux
 - Amazon Web Services
+- Python webserver
+- Timeseries databases
 
 ## 2015 - 2017
 
@@ -38,15 +37,16 @@ Low Frequency Electric and Magnetic Field Sensing Team.
 
 **Graduate Student, Duke Univeristy**
 
-Prof. Warren S. Warren group in optics, nuclear magnetic resonance, and magnetic resonance imaging.
+[Prof. Warren S. Warren](http://www.chem.duke.edu/~wwarren/) group in optics, nuclear magnetic resonance, and magnetic resonance imaging.
 - NMR spectroscopy
 - Long-lived singlet states
+- Optical pulse shaping
 
 ## 2005 - 2009
 
 **Undergraduate Student, Rice Univeristy**
 
-Dr. Stephan Link group in optics.
+[Dr. Stephan Link](https://slink.rice.edu/members/slink/) group in optics.
 - Microscope imaging
 - Femtosecond lasers
 - Image processing
@@ -56,6 +56,6 @@ Dr. Stephan Link group in optics.
 
 **High School Co-Op Student, Los Alamos National Laboratory**
 
-Dr. James A. Tencate group in geophysics.
+[Dr. James A. Tencate](http://www.lanl.gov/orgs/ees/ees11/geophysics/staff/tencate/tencate.shtml) group in geophysics.
 - Modeling and simulation
 - Stress-Strain measurements
