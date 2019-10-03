@@ -5,16 +5,24 @@ hero_height: is-small
 show_sidebar: false
 ---
 
+# Education
+
+Ph.D. Physics <br/>
+2015 - Duke University
+
+B.S. Physics <br/>
+B.A. Mathematics <br/>
+2009 - Rice University
+
 # Publications
 
-Please visit [the publications page](/publications/).
+Please visit my [publications page](/publications/).
 
 # Employment History
 
 ## 2017 - Present
 
-**Physicist, US Army Research Laboratory**
-
+**Physicist, US Army Research Laboratory** <br/>
 Low Frequency Electric and Magnetic Field Sensing Team.
 - E/H-Field Sensing
 - Machine learning / artificial intelligence
@@ -26,8 +34,7 @@ Low Frequency Electric and Magnetic Field Sensing Team.
 
 ## 2015 - 2017
 
-**Physicist, Contractor with General Technical Services @ US Army Research Laboratory.**
-
+**Physicist, Contractor with General Technical Services @ US Army Research Laboratory.** <br/>
 Low Frequency Electric and Magnetic Field Sensing Team.
 - Signal processing
 - Data analysis
@@ -35,8 +42,7 @@ Low Frequency Electric and Magnetic Field Sensing Team.
 
 ## 2009 - 2015
 
-**Graduate Student, Duke Univeristy**
-
+**Graduate Student, Duke Univeristy** <br/>
 [Prof. Warren S. Warren](http://www.chem.duke.edu/~wwarren/) group in optics, nuclear magnetic resonance, and magnetic resonance imaging.
 - NMR spectroscopy
 - Long-lived singlet states
@@ -44,8 +50,7 @@ Low Frequency Electric and Magnetic Field Sensing Team.
 
 ## 2005 - 2009
 
-**Undergraduate Student, Rice Univeristy**
-
+**Undergraduate Student, Rice Univeristy** <br/>
 [Dr. Stephan Link](https://slink.rice.edu/members/slink/) group in optics.
 - Microscope imaging
 - Femtosecond lasers
@@ -54,8 +59,7 @@ Low Frequency Electric and Magnetic Field Sensing Team.
 
 ## 2005 - 2009
 
-**High School Co-Op Student, Los Alamos National Laboratory**
-
+**High School Co-Op Student, Los Alamos National Laboratory** <br/>
 [Dr. James A. Tencate](http://www.lanl.gov/orgs/ees/ees11/geophysics/staff/tencate/tencate.shtml) group in geophysics.
 - Modeling and simulation
 - Stress-Strain measurements
