@@ -16,6 +16,10 @@ Here's the summary video:
 
 In addition to the twelve RGB LEDs, the three buttons allow for eight modes of operation and the “soft-pot” touch potentiometer allows for continuous selection, and selections that can be mapped to the clock face.
 
+This project also appears at:
+- [Github](https://github.com/KEClaytor/color-wheel-clock)
+- [Hackaday](https://hackaday.io/project/169298-interactive-neopixel-clock)
+
 # Hardware
 
 The electronics [parts list](https://www.adafruit.com/wishlists/499222) consist of:
