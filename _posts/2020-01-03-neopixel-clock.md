@@ -102,7 +102,7 @@ When using either of the above schematics, you only need three wires coming out 
 
 Here's the fully wired interior:
 
-![clock internals fully wired up](/assets/images/interactive_clock/breadboard_leds_touch_buttons.jpg)
+![clock internals fully wired up](/assets/images/interactive_clock/breadboard_led_touch_buttons.jpg)
 
 # Code
 
