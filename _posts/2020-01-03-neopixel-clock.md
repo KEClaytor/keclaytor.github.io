@@ -47,11 +47,11 @@ Glue the cardboard around the plywood, then cut three holds for the buttons.
 I’ll introduce the full circuit diagram and then break it down.
 First the wiring schematic:
 
-![wiring schematic](/assets/images/interactive_clock/breadboard.jpg)
+![wiring schematic](/assets/images/interactive_clock/breadboard.png)
 
 And the circuit diagram:
 
-![circuit diagram](/assets/images/interactive_clock/schematic.jpg)
+![circuit diagram](/assets/images/interactive_clock/schematic.png)
 
 The individual NeoPixels are all connected.
 The cathodes (- terminal) and anodes (+ terminal) are all solidered together.
@@ -77,7 +77,7 @@ In the “pull up” mode, when the switch is closed, sense output (the connecti
 This requires that the pin in the microcontroller is put in “pull down” mode - ie an internal resistor connects that pin to ground.
 Here’s a small schematic:
 
-![switch that pulls microcontroller pin up](/assets/images/interactive_clock/switch_pull_up.jpg)
+![switch that pulls microcontroller pin up](/assets/images/interactive_clock/switch_pull_up.png)
 
 One advantage of this is that then when you read that pin in code, if the value is high the pin is being depressed.
 One disadvantage is that if there is any other resistance in series with the internal resistor, you might not get a full digital on signal.
@@ -91,7 +91,7 @@ In this mode, the switch shorts the microcontroller pin to ground.
 On the microcontroller side the pin is “pulled up” with an internal resistor so that it naturally reads digital high.
 The schematic looks similar, but with the parts inverted;
 
-![switch that pulls microcontroller pin down](/assets/images/interactive_clock/switch_pull_down.jpg)
+![switch that pulls microcontroller pin down](/assets/images/interactive_clock/switch_pull_down.png)
 
 The advantages of this are that it’s really easy to short the pin to ground (you don’t have to worry about damaging anything).
 The disadvantage is that the button is depressed when the pin is digital low, so you have to invert the pin state in code.
