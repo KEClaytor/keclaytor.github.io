@@ -47,7 +47,7 @@ Glue the cardboard around the plywood, then cut three holds for the buttons.
 I’ll introduce the full circuit diagram and then break it down.
 First the wiring schematic:
 
-![wiring schematic](/assets/images/interactive_clock/breadboard.png)
+![wiring schematic](/assets/images/interactive_clock/fritzing.png)
 
 And the circuit diagram:
 
