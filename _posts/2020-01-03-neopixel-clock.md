@@ -4,6 +4,7 @@ title: Interactive NeoPixel "Clock"
 subtitle: (It doesn't actually tell time)
 author: K. E. Claytor
 tags: programming, electronics, kids projects, circuitpython, micropython, python, project
+hero_image: /assets/images/interactive_clock/hero.jpg
 ---
 
 # Interactive NeoPixel Clock
