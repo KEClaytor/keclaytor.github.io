@@ -9,34 +9,35 @@ hero_image: /assets/images/mordin/hero.jpg
 
 # Mordin Solus Timer
 
-Josie found an old Mordin Solus from Mass Effect action figure I had and wanted to know when it would light up again.
+Kiddo found an old Mordin Solus (Mass Effect) action figure I had and wanted to know when it would light up again.
 So we added four RGB LEDs, a speaker, and a button and turned it into a ambient light and pomodoro timer.
 
 Here's the summary video:
 
-[Video](TODO)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=L14t6L6Qrks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This project also appears at:
 - [Github](https://github.com/KEClaytor/Mordin)
 - [Hackaday](TODO)
 
-This project cost <$21 and is easy:
+This project costs at most $21 (cheaper if you have some parts already) and is easy:
 - Hardware: Easy
 - Software: Easy
 - Assembly: Easy
 
+![Front view](/assets/images/mordin/front.jpg)
+
 # Hardware
 
-The electronics [parts list](TODO) consist of:
+The electronics [parts list](http://www.adafruit.com/wishlists/504399) consist of:
 - Trinket M0
 - 4x neopixel RGB LEDs
 - 1x small speaker
 - 1x tactile button
+- Perma-protoboard
 
 The non-electronics parts consist of:
 - Action figure
-- Cardboard
-- Paint
 
 # Wiring
 
@@ -49,11 +50,11 @@ The wiring is really simple:
 
 Here's the schematic:
 
-![wiring schematic](/assets/images/mordin/breadboard.png)
+![wiring schematic](/assets/images/mordin/Mordin_bb.png)
 
 And the circuit diagram:
 
-![circuit diagram](/assets/images/mordin/schem.png)
+![circuit diagram](/assets/images/mordin/Mordin_schem.png)
 
 # Code
 
@@ -155,7 +156,7 @@ Everything's soldered into a perma-proto with some headers.
 This allows me to unplug components as needed - which I had to do, as I had to re-solder the console LEDs.
 Also, I may change the functionality in the future and wanted to make that easy.
 
-![Installed components](/assets/images/mordin/.jpg)
+![Back / component view](/assets/images/mordin/back.jpg)
 
 # Conclusion
 
