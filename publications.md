@@ -7,6 +7,10 @@ show_sidebar: false
 
 # Publications
 
+## 2019
+
+- Drummond, Z.D., **Claytor, K.E.**, Allee, D.R., Hull, D.M.. "An Optimized Subspace-Based Approach to Synchrophasor Estimation" IEEE Transactions on Instrumentation and Measurement. 17 August 2020 [WEB](https://ieeexplore.ieee.org/abstract/document/9169848) [DOI](https://doi.org/10.1109/TIM.2020.3017059)
+
 ## 2018
 
 - **Claytor, K.E.**, et al. (U) A Template for Rapid Creation of Scientific Web Applications. in MSS BAMS. 2018. Gaithersburg, MD.
@@ -20,7 +24,7 @@ show_sidebar: false
 
 ## 2016
 
-- T. Theis, G. X. Ortiz Jr., A. W. J. Logan, **K. E. Claytor**, Y. Feng, W. P. Huhn, V. Blum, S. J. Malcolmson, E. Y. Chekmenev, Q. Wang and W. S. Warren. "Direct and cost-efficient hyperpolarization of long-lived nuclear spin states on universal <sup>15</sup>N<sub>2</sub>-diazirine molecular tags." Science Advances  25 Mar 2016. [WEB](https://advances.sciencemag.org/content/2/3/e1501438)
+- T. Theis, G. X. Ortiz Jr., A. W. J. Logan, **K. E. Claytor**, Y. Feng, W. P. Huhn, V. Blum, S. J. Malcolmson, E. Y. Chekmenev, Q. Wang and W. S. Warren. "Direct and cost-efficient hyperpolarization of long-lived nuclear spin states on universal <sup>15</sup>N<sub>2</sub>-diazirine molecular tags." Science Advances. 25 Mar 2016. [WEB](https://advances.sciencemag.org/content/2/3/e1501438)
 - **Claytor, K.E.**, et al. (U) Relative Phasor Signatures through a Power Distribution Network Enables Infrastructure Sensing in Denied Areas. in MSS BAMS. 2016. Gaithersburg, MD.
 
 ## 2014
