@@ -20,9 +20,13 @@ Please visit my [publications page](/publications/).
 
 # Employment History
 
-## 2017 - Present
+## 2020 - Present
 
-**Physicist, US Army Research Laboratory** <br/>
+**Johns Hopkins Applied Physics Laboratory** | Physicist, Programmer
+
+## 2017 - 2020
+
+**US Army Research Laboratory** | Physicist <br/>
 Low Frequency Electric and Magnetic Field Sensing Team.
 - E/H-Field Sensing
 - Machine learning / artificial intelligence
@@ -34,7 +38,7 @@ Low Frequency Electric and Magnetic Field Sensing Team.
 
 ## 2015 - 2017
 
-**Physicist, Contractor with General Technical Services @ US Army Research Laboratory.** <br/>
+**General Technical Services** | Physicist <br/>
 Low Frequency Electric and Magnetic Field Sensing Team.
 - Signal processing
 - Data analysis
@@ -42,7 +46,7 @@ Low Frequency Electric and Magnetic Field Sensing Team.
 
 ## 2009 - 2015
 
-**Graduate Student, Duke Univeristy** <br/>
+**Duke Univeristy** | Graduate Researcher <br/>
 [Prof. Warren S. Warren](http://www.chem.duke.edu/~wwarren/) group in optics, nuclear magnetic resonance, and magnetic resonance imaging.
 - NMR spectroscopy
 - Long-lived singlet states
@@ -50,7 +54,7 @@ Low Frequency Electric and Magnetic Field Sensing Team.
 
 ## 2005 - 2009
 
-**Undergraduate Student, Rice Univeristy** <br/>
+**Rice Univeristy** | Undergraduate Researcher <br/>
 [Dr. Stephan Link](https://slink.rice.edu/members/slink/) group in optics.
 - Microscope imaging
 - Femtosecond lasers
@@ -59,7 +63,7 @@ Low Frequency Electric and Magnetic Field Sensing Team.
 
 ## 2005 - 2009
 
-**High School Co-Op Student, Los Alamos National Laboratory** <br/>
+**Los Alamos National Laboratory** | High School Co-Op Student <br/>
 [Dr. James A. Tencate](http://www.lanl.gov/orgs/ees/ees11/geophysics/staff/tencate/tencate.shtml) group in geophysics.
 - Modeling and simulation
 - Stress-Strain measurements

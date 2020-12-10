@@ -5,6 +5,12 @@ hero_height: is-small
 show_sidebar: false
 ---
 
+# Thesis
+
+## 2015
+
+"Making Nuclear Magnetic Hyperpolarization Practical through Storage in Disconnected Eigenstates." [WEB](https://dukespace.lib.duke.edu/dspace/handle/10161/11330)
+
 # Publications
 
 ## 2020
@@ -29,11 +35,14 @@ show_sidebar: false
 ## 2016
 
 - T. Theis, G. X. Ortiz Jr., A. W. J. Logan, **K. E. Claytor**, Y. Feng, W. P. Huhn, V. Blum, S. J. Malcolmson, E. Y. Chekmenev, Q. Wang and W. S. Warren. "Direct and cost-efficient hyperpolarization of long-lived nuclear spin states on universal <sup>15</sup>N<sub>2</sub>-diazirine molecular tags." Science Advances. 25 Mar 2016. [DOI](https://doi.org/10.1126/sciadv.1501438)
+- Z. Zhou, **K. Claytor**, W. S.Warren, T. Theis. "Accessing long lived <sup>1</sup>H states via <sup>2</sup>H couplings"
 - **Claytor, K.E.**, et al. (U) Relative Phasor Signatures through a Power Distribution Network Enables Infrastructure Sensing in Denied Areas. in MSS BAMS. 2016. Gaithersburg, MD.
 
 ## 2014
 
-- **Kevin Claytor**, Thomas Theis, Yesu Feng, Warren Warren. "Measuring long-lived <sup>13</sup>C<sub>2</sub> state lifetimes at natural abundance." Journal of Magnetic Resonance. Vol 239. pp. 81-86. February 2014. [DOI](https://doi.org/10.1016/j.jmr.2013.12.009) [arXiv](http://arxiv.org/abs/1309.7372)
+- **K. Claytor**, T. Theis, Y. Feng, W. Warren. "Measuring long-lived <sup>13</sup>C<sub>2</sub> state lifetimes at natural abundance." Journal of Magnetic Resonance. Vol 239. pp. 81-86. February 2014. [DOI](https://doi.org/10.1016/j.jmr.2013.12.009) [arXiv](http://arxiv.org/abs/1309.7372)
+- **K. Claytor**, T. Theis, Y. Feng, J. Yu, D. Gooden, and W. S. Warren. "Accessing Long-Lived Disconnected Spin-1/2 Eigenstates through Spins > 1/2." J. Am. Chem. Soc. 136, 43. 2014. [DOI](https://doi.org/10.1021/ja505792j)
+- Y. Feng, T. Theis, T. Wu, **K. Claytor**, and W. S. Warren. "Long-lived polarization protected by symmetry." J. Chem. Phys. 141, 134307. 2014. [DOI](https://doi.org/10.1063/1.4896895)
 
 ## 2012
 
@@ -51,7 +60,24 @@ show_sidebar: false
 
 ## 2008
 
+- **K.E. Claytor**, J.R. Koby, J.A. Tencate. "Nonlinearity, hysteresis, end‐point memory, and congruence in sandstones." The Journal of the Acoustical Society of America 123, 3399. 2008. [DOI](https://doi.org/10.1121/1.2934090)
 - **K. Claytor**. "Development and Implementation of an Efficient Automated Cell Colony and Plaque Counter." University of Illinois Internal Physics Publication. 2008. [PDF](/assets/docs/Claytor_Counter.pdf)
+
+# Conference Presentations
+
+## 2013
+- M.C. Fischer, J. Wilson, M.J. Simpson, B. Li, F. Robles, **K. Claytor**, and W.S. Warren. "Nonlinear Pump-Probe Techniques for Multi-Contrast Microscopy." Novel Techniques in Microscopy 2013. [DOI](https://doi.org/10.1364/NTM.2013.NT1B.1)
+- F.E. Robles, **K. Claytor**, and W.S. Warren. "Pump-probe nonlinear phase dispersion spectroscopy: molecular contrast of pigmented and non-pigmented samples." Frontiers in Optics 2013. [DOI](https://doi.org/10.1364/FIO.2013.FW1D.3)
+
+## 2012
+
+- M. Freeman, **K. Claytor**, Y. Qi , S. Degan, Z. Ma, W. S. Warren, B. Driehuys, R. T. Branca. "Hyperpolarized 129Xe And 3He MRI For Sensitive Detection Of Iron Oxide Contrast In The Mouse Lung."  American Thoracic Society International Conference Abstracts. [DOI](https://doi.org/10.1164/ajrccm-conference.2012.185.1_MeetingAbstracts.A2250)
+
+## 2011
+
+- **K. Claytor**, B. Li, P. Samineni, W. Warren, and M. Fischer. "Femtosecond Pulse Shaping Enables Nonlinear Imaging in Highly Scattering Materials." Frontiers in Optics 2011. [DOI](https://doi.org/10.1364/LS.2011.LMC5)
+- M. C. Fischer, P. Samineni, B. Li, **Kevin Claytor**, and W. S. Warren. "Accessing nonlinear phase contrast in biological tissue using femtosecond laser pulse shaping." Frontiers in Optics 2011. [DOI](https://doi.org/10.1364/ECBO.2011.80860O)
+- B. Li, K. Claytor, W. S. Warren, and M. C. Fischer. "Optimizing Shape of Femtosecond Laser Pulses for Homodyne Detection of Nonlinear Optical Signals." Frontiers in Optics 2011. [DOI](https://doi.org/10.1364/FIO.2011.FTuQ5)
 
 ## 2007
 
