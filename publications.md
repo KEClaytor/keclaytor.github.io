@@ -7,9 +7,13 @@ show_sidebar: false
 
 # Publications
 
-## 2019
+## 2020
 
 - Drummond, Z.D., **Claytor, K.E.**, Allee, D.R., Hull, D.M.. "An Optimized Subspace-Based Approach to Synchrophasor Estimation" IEEE Transactions on Instrumentation and Measurement. 17 August 2020 [WEB](https://ieeexplore.ieee.org/abstract/document/9169848) [DOI](https://doi.org/10.1109/TIM.2020.3017059)
+
+## 2019
+
+- **Claytor, K.E.**, George, A., Drummond, Z., Snellman, A.. "Visualization and Processing for Embedded Research Systems (ViPERS) Web-Based Interface for Internet of Things (IoT): Implementation Guide" Technical Report. 2019-12-01 [WEB](https://apps.dtic.mil/sti/citations/AD1087333).
 
 ## 2018
 
