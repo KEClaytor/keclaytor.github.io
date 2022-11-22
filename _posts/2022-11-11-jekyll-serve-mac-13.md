@@ -7,7 +7,7 @@ tags: macos 13, osx 13, m1, mac air, ventura, jekyll, ruby
 hero_image: /assets/images/misc/jekyll-serve-reload.png
 ---
 
-Some notes on updating ruby on my M1 Mac Air running OSX 13:
+Some notes on updating ruby-on-rails on my M1 Mac Air running OSX 13:
 
 1. Trying to install ruby via the [jekyll instructions](https://jekyllrb.com/docs/installation/macos/) did not work
     - I kept having issues with `ruby -v` and `which ruby` returning the pre-installed system ruby (2.6.x)
