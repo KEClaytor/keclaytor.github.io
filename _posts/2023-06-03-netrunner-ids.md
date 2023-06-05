@@ -4,7 +4,7 @@ title: Netrunner Laser-Cut Identities
 subtitle:
 author: K. E. Claytor
 tags: netrunner, laser cutting, card game, makerspace
-hero_image: /assets/images/netrunner-laser-identities/hero.jpeg
+hero_image: /assets/images/netrunner-laser-identities/hero.jpg
 ---
 
 # Netrunner Laser-Cut Identities
