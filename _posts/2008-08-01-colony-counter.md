@@ -5,7 +5,7 @@ author: K. E. Claytor
 tags: development, programming, biophysics
 ---
 
-# Colony Counter
+Development of an automated colony counter using image processing techniques.
 
 ## Introduction and Download
 

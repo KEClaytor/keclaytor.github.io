@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Mathematica Demonstrations
+title: Mathematica - Multiple, Multiply Sided Dice
 author: K. E. Claytor
 tags: math, development, mathematica
 ---
-
-# Multiple, Multiply Sided Dice
 
 I recently contributed a demonstrations to the [wolfram demonstrations project](http://demonstrations.wolfram.com/).
 

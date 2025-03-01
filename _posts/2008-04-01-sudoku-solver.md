@@ -5,8 +5,6 @@ author: K. E. Claytor
 tags: programming, optics
 ---
 
-# Sudoku Solver
-
 A GUI that allows one to enter in a Sudoku and then solves it.
 - At this point it only uses a "forced method" and cannot solve all sudoku puzzles.
 - Stay tuned for Version 2 which should be able to solve even harder ones.

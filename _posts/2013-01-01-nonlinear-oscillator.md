@@ -5,8 +5,6 @@ author: K. E. Claytor
 tags: physics, lego, project, tinkering
 ---
 
-# Lego Nonlinear Oscillator
-
 [Read the final report.](/assets/docs/Claytor_NonlinearOscillator.pdf)
 
 One of the coolest things that I like about physics is how accessible it can be with some fairly simple experiments.

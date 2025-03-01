@@ -7,7 +7,6 @@ tags: netrunner, laser cutting, card game, makerspace
 hero_image: /assets/images/netrunner-laser-identities/hero.jpg
 ---
 
-# Netrunner Laser-Cut Identities
 I've been using the laser cutter/engraver to generate some Netrunner identities for some time, and finally got some that look really good.
 
 Initially, I started out by turning the standard card art grayscale and etching it into 1/8" acrylic.

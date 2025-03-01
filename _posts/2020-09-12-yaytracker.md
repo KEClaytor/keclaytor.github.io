@@ -7,8 +7,6 @@ tags: programming, electronics, kids projects, circuitpython, micropython, pytho
 hero_image: /assets/images/yaytracker/hero.jpg
 ---
 
-# The YAY Tracker
-
 So I've been mostly enjoying pandemic work-from-home.
 The one thing I don't like though is the easy access to snacks.
 So to try to reduce my snacking consumption, I thought I would try to replace the instant gratification of a snack with something else.

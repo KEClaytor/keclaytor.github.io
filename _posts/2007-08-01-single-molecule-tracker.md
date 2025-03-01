@@ -5,10 +5,6 @@ author: K. E. Claytor
 tags: programming, optics
 ---
 
-# Single Molecule Visualizer and Tracker
-
-## Introduction
-
 SMS VIS is a program developed to track and identify nanocars using a optical scanning microscope.
 
 ## Download and Installation

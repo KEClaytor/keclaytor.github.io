@@ -7,8 +7,6 @@ tags: 3d printing, star trek, star wars, battlestar galactica
 hero_image: /assets/images/scifimobile/mobile-hero.png
 ---
 
-# Sci-Fi Mobile
-
 I recently took training for the 3D printers at my makerspace.
 As a first project I found these neat "[kit-cards](https://www.thingiverse.com/nakozen/designs)" on [Thingiverse](https://www.thingiverse.com/), a great resource for 3D print ideas.
 These reminded me of the model airplane kits I used to build as a kid and the hours of fun I had there.

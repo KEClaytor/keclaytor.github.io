@@ -6,8 +6,6 @@ author: K. E. Claytor
 tags: programming, presentation, talk, sensor data, database
 ---
 
-# InfluxDays
-
 I've been using the [InfluxDB](https://www.influxdata.com) time series NoSQL database lately.
 I applied and was accecpted for a talk at [InfluxDays](https://influxdays.com/past-events-san-francisco-2019/), their 2019 user conference.
 

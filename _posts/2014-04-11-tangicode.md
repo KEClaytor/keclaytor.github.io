@@ -5,8 +5,6 @@ author: K. E. Claytor
 tags: educational
 ---
 
-# Tangicode
-
 ![Tangicode logo](/assets/images/tangicode/tangicode_logo.jpg)
 
 The idea behind Tangicode is to bring logic / programming / coding to a tangible level so younger kids can interact with it.

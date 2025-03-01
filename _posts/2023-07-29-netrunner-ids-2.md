@@ -7,7 +7,6 @@ tags: netrunner, laser cutting, card game, makerspace
 hero_image: /assets/images/netrunner-laser-identities/hero.jpg
 ---
 
-# Netrunner Laser-Cut Identities II
 After the success of the [last Netrunner laser-cut ID's](/2023/06/03/netrunner-ids.html) I thought I would do another set for East Coast Nationals 2023. 
 This was right before [Smoke](https://netrunnerdb.com/find/?q=smoke) (one of my favorite runners) was going to rotate, and [The Outfit](https://netrunnerdb.com/find/?q=the+outfit) was doing super strong, so I had an easy time deciding what to do.
 

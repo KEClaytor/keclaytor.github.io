@@ -7,7 +7,6 @@ tags: netrunner, laser cutting, card game, card storage, boxes, makerspace
 hero_image: /assets/images/netrunner-boxes/netrunner-hero.jpeg
 ---
 
-# Netrunner Card Boxes
 I've been wanting to upgrade my Netrunner card storage for a while.
 Now that I have access to a laser cutter/engraver, I finally took the plunge and designed these boxes.
 I think they turned out fantastic!

@@ -5,8 +5,6 @@ author: K. E. Claytor
 tags: development, programming, project
 ---
 
-# Toblerone Clock
-
 This is a 21 element clock made from Toblerone boxes.
 Powered by a [Raspberry Pi](http://www.raspberrypi.org/), it has a [twitter account](https://twitter.com/tobleroneclock) that it monitors and then prints the tweets, character by character, on its clock face.
 It can also run a [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) simulation modified for a triangular grid.

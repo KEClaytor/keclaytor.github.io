@@ -7,8 +7,6 @@ tags: programming, electronics, kids projects, circuitpython, micropython, pytho
 hero_image: /assets/images/interactive_clock/hero.jpg
 ---
 
-# Interactive NeoPixel Clock
-
 This project started out as an LED clock for my kid, but quickly evolved into just a cool interactive light-show that they could enjoy (know your audience - the clock function was not a killer feature).
 
 Here's the summary video:
