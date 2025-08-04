@@ -15,12 +15,12 @@ Basically, what you do is you take the inlay and enlarge it uniformly by ~0.04" 
 
 Smoke is a wood base with an inlaid translucent red hair, and turned out better than my expectations:
 
-![Smoke backlight](/assets/images/netrunner-laser-identities/smoke.png){: width="250" }
+![Smoke backlight](/assets/images/netrunner-laser-identities/smoke.png){: width="400" }
 
 I ended up making multiple outfits, as I would have a little bit of waste that I then wanted to use again.
 The green translucent background shows a bit of the scorching from the cutting, but the others turned out very well - I think the black background with the translucent green inlay is my favorite.
 
-![Green background outfit](/assets/images/netrunner-laser-identities/outfit-green.png){: width="500" } ![Translucent black outfit](/assets/images/netrunner-laser-identities/outfit-black.png){: width="250" }
+![Green background outfit](/assets/images/netrunner-laser-identities/outfit-green.png){: width="540" } ![Translucent black outfit](/assets/images/netrunner-laser-identities/outfit-black.png){: width="250" }
 
 Here are the vector art files if you'd like to make your own.
 Note that I generally design them 90% in Inkscape (free) and then transfer them over to CorelDraw (paid) when I'm on the laser, since that's what it needs.
