@@ -36,7 +36,7 @@ But let's see --- let's do a bit of math!
 
 It's been awhile since I've asked one of the LLM's to do math for me.
 The last time it didn't work out so well, but I thought I would try again with the new agent models.
-Here's the original chat; https://claude.ai/share/391db119-0bea-4f73-ab02-dd3dd9374abf
+Here's [the chat](https://claude.ai/share/391db119-0bea-4f73-ab02-dd3dd9374abf).
 
 Basically, I prompted it with nearly exactly what was above (minus a couple of variables).
 It identified all of the correct equations, did the correct substitutions, identified other variables it needed and came to the correct conclusion.
