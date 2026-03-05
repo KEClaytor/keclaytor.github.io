@@ -54,10 +54,12 @@ defaults:
 
 # Build setings
 markdown: kramdown
+kramdown:
+  math_engine: null
+  math_engine_opts: {}
+
 # theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
